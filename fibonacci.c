@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(int argc, char const *argv[])
-{int n,i,a,b,next;
+{
+    int n,i,a,b,next;
     a=0;
     b=1;
     next=0;
