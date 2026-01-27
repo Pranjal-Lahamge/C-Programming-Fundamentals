@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 int main() {
     int n, i;
     unsigned long long fact = 1; // Using 'unsigned long long' to handle larger results
