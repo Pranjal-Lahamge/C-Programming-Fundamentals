@@ -4,7 +4,7 @@ int main(int argc, char const *argv[])
     int num,i;
     printf ("enter the number\n");
     scanf("%d",&num);
-    if (num<=1)// number less than equal to one is not a prime
+    if (num<=1) // number less than equal to one is not a prime
     {
         printf ("number is not prime number");
     }
