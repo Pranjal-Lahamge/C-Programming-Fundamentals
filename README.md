@@ -1,10 +1,12 @@
-# C Programming Fundamentals - Semester 1
+## <h1>​💻 C Programming: Logic & Fundamentals</h1>
+​This repository documents my progress in learning C, focusing on building a solid understanding of fundamental algorithms and structured code.
 
-This repository contains all the lab assignments and practical programs for my **C Programming** course. These programs reflect my hands-on practice and understanding of core logic and mathematical algorithms.
+## <h2>​🛠️ Technical Highlights</h2>
+​Algorithmic Logic: Basic implementations of prime checking, Fibonacci sequences, and mathematical factorials.<br>
+​Control Flow: Practical use of loops and conditional branching (if-else) to solve logic-based problems.<br>
+​Code Organization: A focus on maintaining readable syntax and consistent code structures.<br>
 
-All programs are implemented in **C**, following structured coding practices.
-
-## 📂 Folder Structure
+## <h2>📂 Folder Structure</h2>
 
 | File Name | Description |
 | :--- | :--- |
@@ -15,7 +17,7 @@ All programs are implemented in **C**, following structured coding practices.
 | `reward_system.c` | Calculates student prize money based on Science and Maths marks. |
 | `triangle_identifier.c` | Determines if a triangle is Equilateral, Isosceles, or Right-angled. |
 
-## 🚀 How to Run
+## <h2> 🚀 How to Run </h2>
 You can use any standard C compiler (GCC) to run these programs. For example:
 ```bash
 gcc greatest_of_three.c -o output

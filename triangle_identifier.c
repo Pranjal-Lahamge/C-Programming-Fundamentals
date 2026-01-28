@@ -1,7 +1,8 @@
 /*
 Problem Statement:  
 A type of a triangle (equilateral, isosceles, right angle triangle etc) is decided using the length of its 
-three sides. */
+three sides.
+*/
 #include<stdio.h>
 #include<math.h>
 int main ()

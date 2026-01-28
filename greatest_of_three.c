@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main(int argc, char const *argv[])
-{//accepting 3 integers from user
+{
+    //accepting 3 integers from user
     int a,b,c;
     printf("enter the number a\n");
     scanf("%d",&a);
