@@ -16,6 +16,8 @@
 | `factorial.c` | Calculates the factorial of a given integer using for-loops. |
 | `reward_system.c` | Calculates student prize money based on Science and Maths marks. |
 | `triangle_identifier.c` | Determines if a triangle is Equilateral, Isosceles, or Right-angled. |
+|` num_swap.c` | Logic to exchange values between two variables. Implements a temporary variable to switch data between 'a' and 'b'. |
+| `num_reverse.c` | Algorithm to reverse the digits of an integer. Extracts digits using modulo and rebuilds them in reverse order using a loop. |
 
 ## <h2> 🚀 How to Run </h2>
 You can use any standard C compiler (GCC) to run these programs. For example:
