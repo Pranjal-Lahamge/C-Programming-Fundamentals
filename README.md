@@ -10,7 +10,7 @@
 
 | File Name | Description |
 | :--- | :--- |
-| `prime_check.c` | Determines if a number is prime using iterative loops. |
+| `check_prime.c` | Determines if a number is prime using iterative loops. |
 | `greatest_of_three.c` | Logic to find the largest among three numbers using nested if-else. |
 | `fibonacci.c` | Generates the Fibonacci sequence up to 'n' terms. |
 | `factorial.c` | Calculates the factorial of a given integer using for-loops. |
@@ -18,6 +18,8 @@
 | `triangle_identifier.c` | Determines if a triangle is Equilateral, Isosceles, or Right-angled. |
 |` num_swap.c` | Logic to exchange values between two variables. Implements a temporary variable to switch data between 'a' and 'b'. |
 | `num_reverse.c` | Algorithm to reverse the digits of an integer. Extracts digits using modulo and rebuilds them in reverse order using a loop. |
+|` sum_of_digits.c` |It calculates the sum of digitd of the number entered by the user|
+| `Harmonic_series.c` | It give the harmonic series of a number |
 
 ## <h2> 🚀 How to Run </h2>
 You can use any standard C compiler (GCC) to run these programs. For example:
