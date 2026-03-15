@@ -10,7 +10,7 @@
 
 | File Name | Description |
 | :--- | :--- |
-| `prime_check.c` | Determines if a number is prime using iterative loops. |
+| `check_prime.c` | Determines if a number is prime using iterative loops. |
 | `greatest_of_three.c` | Logic to find the largest among three numbers using nested if-else. |
 | `fibonacci.c` | Generates the Fibonacci sequence up to 'n' terms. |
 | `factorial.c` | Calculates the factorial of a given integer using for-loops. |
