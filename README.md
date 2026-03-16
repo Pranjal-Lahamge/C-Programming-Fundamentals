@@ -21,6 +21,7 @@
 |` sum_of_digits.c` |It calculates the sum of digitd of the number entered by the user|
 | `Harmonic_series.c` | It give the harmonic series of a number |
 | `Palindrome.c` | It identify whether given number is palindrom or not |
+| `Star_Pattern_Printing.c` | It prints forward or reverse star pattern as per user choice |
 
 ## <h2> 🚀 How to Run </h2>
 You can use any standard C compiler (GCC) to run these programs. For example:
