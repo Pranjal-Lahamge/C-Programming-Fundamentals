@@ -22,6 +22,7 @@
 | `Harmonic_series.c` | It give the harmonic series of a number |
 | `Palindrome.c` | It identify whether given number is palindrom or not |
 | `Star_Pattern_Printing.c` | It prints forward or reverse star pattern as per user choice |
+| `Perfect_Number.c` | It identify whether given number is perfect or not |
 
 ## <h2> 🚀 How to Run </h2>
 You can use any standard C compiler (GCC) to run these programs. For example:
