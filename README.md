@@ -24,7 +24,7 @@
 | `Star_Pattern_Printing.c` | It prints forward or reverse star pattern as per user choice |
 | `Perfect_Number.c` | It identify whether given number is perfect or not |
 | `Rock_Paper_Scissor.c` |A game which allow a single player or to player to play rock paper scissor|
-
+| `String_Operation.c` | Contains various string operations|
 ## <h2> 🚀 How to Run </h2>
 You can use any standard C compiler (GCC) to run these programs. For example:
 ```bash
