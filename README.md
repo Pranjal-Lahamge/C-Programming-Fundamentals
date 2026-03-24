@@ -26,6 +26,8 @@
 | `Rock_Paper_Scissor.c` |A game which allow a single player or to player to play rock paper scissor|
 | `String_Operation.c` | Contains various string operations|
 |`Calculate_Final_Amt.c`|It calculates discounted amt, final amt etc|
+|`Matrix_Operations.c`|It contains matrix operations|
+
 ## <h2> 🚀 How to Run </h2>
 You can use any standard C compiler (GCC) to run these programs. For example:
 ```bash
