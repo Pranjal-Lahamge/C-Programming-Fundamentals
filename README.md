@@ -14,6 +14,7 @@
 | `greatest_of_three.c` | Logic to find the largest among three numbers using nested if-else. |
 | `fibonacci.c` | Generates the Fibonacci sequence up to 'n' terms. |
 | `factorial.c` | Calculates the factorial of a given integer using for-loops. |
+| `Multiplication_Table` |It provides multiplication table of number entered by the use.|
 | `reward_system.c` | Calculates student prize money based on Science and Maths marks. |
 | `triangle_identifier.c` | Determines if a triangle is Equilateral, Isosceles, or Right-angled. |
 |` num_swap.c` | Logic to exchange values between two variables. Implements a temporary variable to switch data between 'a' and 'b'. |
