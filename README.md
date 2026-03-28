@@ -18,6 +18,7 @@
 | `Multiplication_Table` |It provides multiplication table of number entered by the use.|
 | `reward_system.c` | Calculates student prize money based on Science and Maths marks. |
 | `triangle_identifier.c` | Determines if a triangle is Equilateral, Isosceles, or Right-angled. |
+| `x^y.c` |Program ton find x^y |
 |` num_swap.c` | Logic to exchange values between two variables. Implements a temporary variable to switch data between 'a' and 'b'. |
 | `num_reverse.c` | Algorithm to reverse the digits of an integer. Extracts digits using modulo and rebuilds them in reverse order using a loop. |
 |` sum_of_digits.c` |It calculates the sum of digitd of the number entered by the user|
