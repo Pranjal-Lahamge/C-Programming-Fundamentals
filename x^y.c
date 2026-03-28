@@ -9,6 +9,7 @@ int main(int argc, char const *argv[])//program to find x^y
     expo=pow(x,y);//calculating x^y using pow function
     printf("%f^%f=%f",x,y,expo);//printing the result
     return 0;
+ 
 }
 /*OUTPUT
 enter base x
