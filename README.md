@@ -23,6 +23,7 @@
 | `num_reverse.c` | Algorithm to reverse the digits of an integer. Extracts digits using modulo and rebuilds them in reverse order using a loop. |
 |` sum_of_digits.c` |It calculates the sum of digitd of the number entered by the user|
 | `Harmonic_series.c` | It give the harmonic series of a number |
+| `pattern.c` | It prints pattern as per even or odd rows |
 | `Palindrome.c` | It identify whether given number is palindrom or not |
 | `Star_Pattern_Printing.c` | It prints forward or reverse star pattern as per user choice |
 | `Perfect_Number.c` | It identify whether given number is perfect or not |
