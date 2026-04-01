@@ -12,6 +12,7 @@
 | :--- | :--- |
 | `check_prime.c` | Determines if a number is prime using iterative loops. |
 | `greatest_of_three.c` | Logic to find the largest among three numbers using nested if-else. |
+| `Identify_vowel.c` | It indentify the vowels by the character given by user.|
 | `Day.c` | It display day with respect to number enter by user from1 to 7. |
 | `fibonacci.c` | Generates the Fibonacci sequence up to 'n' terms. |
 | `factorial.c` | Calculates the factorial of a given integer using for-loops. |
