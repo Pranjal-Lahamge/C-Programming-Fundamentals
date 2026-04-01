@@ -25,6 +25,7 @@
 | `Harmonic_series.c` | It give the harmonic series of a number |
 | `pattern.c` | It prints pattern as per even or odd rows |
 | `Palindrome.c` | It identify whether given number is palindrom or not |
+| `Floyds_Triangle.c` |To print floyd's triangle|
 | `Star_Pattern_Printing.c` | It prints forward or reverse star pattern as per user choice |
 | `Perfect_Number.c` | It identify whether given number is perfect or not |
 | `Rock_Paper_Scissor.c` |A game which allow a single player or to player to play rock paper scissor|
